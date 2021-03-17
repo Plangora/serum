@@ -5,6 +5,7 @@
       <p><a href="<%= x.url %>"><%= x.title %></a>
       &mdash;
       <span class="date"><%= x.date %></span></p>
+      <sub><%= x.extras["preview"] %></sub>
     </li>
   <% end %>
 </ul>

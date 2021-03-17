@@ -1,9 +1,9 @@
 # Serum
 
-## Build a Static Site with Serum
+## Using Serum Plugins
 
 ## Reference Video
-[https://youtu.be/8rJuGWZW9h8](https://youtu.be/8rJuGWZW9h8)
+[https://youtu.be/JGjImuUKo4c](https://youtu.be/JGjImuUKo4c)
 
 ## Learn more
 

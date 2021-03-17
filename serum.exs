@@ -6,6 +6,7 @@
   author: "John Doe",
   author_email: "john.doe@example.com",
   plugins: [
+    {Serum.Plugins.PreviewGenerator, args: [length: [chars: 10]]},
     {Serum.Plugins.LiveReloader, only: :dev}
   ]
 }
